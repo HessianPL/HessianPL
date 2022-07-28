@@ -1,16 +1,19 @@
-### Hi there 👋
+## :dragon_face: About Me
+Backend JS developer (in training)  
 
-<!--
-**HessianPL/HessianPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills
+* HTML/CSS
+* Node
+* Express
 
-Here are some ideas to get you started:
+## :mortar_board: Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* SQL/noSQL
+* Handlebars
+
+
+## 🔗 Links
+[![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hessianPL/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukasz-dragon/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![homepage](https://img.shields.io/badge/homepage-2E4053?style=for-the-badge&logo=aboutdotme&logoColor=white)](http://lukaszdragon.pl)
