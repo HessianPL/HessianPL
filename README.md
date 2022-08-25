@@ -15,7 +15,10 @@ I'm Backend JS developer (in training)
 * Handlebars
 
 ## Stats
+
 [![Hessian's GitHub stats](https://github-readme-stats.vercel.app/api?username=HessianPL&count_private=true&show_icons=true&theme=graywhite)](https://github.com/HessianPL/github-readme-stats)
+
+[![Codewars](https://www.codewars.com/users/HessianPL/badges/small)](https://www.codewars.com/users/HessianPL)
 
 ## 🔗 Links
 [![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hessianPL/)
