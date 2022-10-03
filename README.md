@@ -5,14 +5,16 @@ I'm Backend JS developer (in training)
 ## 🛠 Skills
 * HTML/CSS
 * Node
-* Express  
+* Express
+* SQL
+* MongoDB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HessianPL&layout=compact&theme=graywhite)](https://github.com/HessianPL/github-readme-stats)
 
 ## :mortar_board: Currently learning
 
-* SQL/noSQL
 * Handlebars
+* Typescript
 
 ## Stats
 
