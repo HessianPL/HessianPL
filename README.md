@@ -1,6 +1,6 @@
 ## :dragon_face: About Me
 Hello.  
-I'm Backend JS developer (in training)  
+I'm Backend/Fullstack JS developer (in training)  
 
 ## 🛠 Skills
 * HTML/CSS
@@ -8,13 +8,16 @@ I'm Backend JS developer (in training)
 * Express
 * SQL
 * MongoDB
+* Typescript
+* React
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HessianPL&layout=compact&theme=graywhite)](https://github.com/HessianPL/github-readme-stats)
 
 ## :mortar_board: Currently learning
 
-* Handlebars
-* Typescript
+* Nest.js
+* Jest
+* TDD
 
 ## Stats
 
