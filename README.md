@@ -1,23 +1,29 @@
 ## :dragon_face: About Me
 Hello.  
-I'm Backend/Fullstack JS developer (in training)  
+I'm a Fullstack JS developer (in training)  
 
-## 🛠 Skills
-* HTML/CSS
-* Node
-* Express
-* SQL
-* MongoDB
-* Typescript
-* React
+## 🛠 Tech stack
+
+| General | Frontend | Backend |
+| ----------- | ----------- | ----------- |
+| Javascript  | HTML + BEM | Node |
+| Typescript | CSS + SCSS | Express |
+| Rest | React | SQL (Maria, MySQL) |
+|  | | noSQL (MongoDB) |
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HessianPL&layout=compact&theme=graywhite)](https://github.com/HessianPL/github-readme-stats)
 
-## :mortar_board: Currently learning
+## :mortar_board: I plan to learn
 
-* Nest.js
-* Jest
-* TDD
+| General | Frontend | Backend | Other |
+| ----------- | ----------- | ----------- | ----------- |
+| **TDD*** | Next.js | Next.js | React Native |
+| **Jest*** | Solid.js | Nest | Electron |
+| GraphQL | a11y | |
+
+In progress*
+
 
 ## Stats
 
