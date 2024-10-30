@@ -1,15 +1,16 @@
 ## :dragon_face: About Me
 Hello.  
-I'm a Fullstack JS developer (in training)  
+I'm a Fullstack developer (in training)  
 
 ## 🛠 Tech stack
 
-| General | Frontend | Backend |
-| ----------- | ----------- | ----------- |
-| Javascript  | HTML + BEM | Node |
-| Typescript | CSS + SCSS | Express |
-| Rest | React | SQL (Maria, MySQL) |
-|  | | noSQL (MongoDB) |
+| General | Frontend | Backend | QA |
+| ----------- | ----------- | ----------- | ----------- |
+| Javascript  | HTML + BEM | Node | Vitest / Jest |
+| Typescript | CSS + SCSS | Express | React Testing Library |
+| REST API | React | SQL (Maria, MySQL) | |
+|  | | noSQL (MongoDB) | |
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HessianPL&layout=compact&theme=graywhite)](https://github.com/HessianPL/github-readme-stats)
@@ -18,9 +19,10 @@ I'm a Fullstack JS developer (in training)
 
 | General | Frontend | Backend | Other |
 | ----------- | ----------- | ----------- | ----------- |
-| **TDD*** | Next.js | Next.js | React Native |
-| **Jest*** | Solid.js | Nest | Electron |
-| GraphQL | a11y | |
+| **Python*** | Next.js | Next.js | React Native |
+| GraphQL | Vue | Nest | Electron | Docker |
+|  | a11y | Flask | **Puppeteer*** |
+|  |  | Redis | |
 
 In progress*
 
